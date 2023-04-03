@@ -1,4 +1,4 @@
-name: client
+name: clients
 on:
   push:
     branches: [ "reference" ]
